@@ -1,0 +1,33 @@
+body {
+    background-image: url("../../assets/image/background.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+#submit {
+    margin-top: -300px;
+    margin-left: 850px;
+    font-size: 20px
+}
+
+h1 {
+
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+
+#body {
+    text-align: left;
+
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 50px
+ }
